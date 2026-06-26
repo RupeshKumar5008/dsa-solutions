@@ -1,5 +1,5 @@
 import java.util.*;
-public class DomainPilling {
+public class DominoPilling {
   public static void main(String[] args) {
     // System.out.println("hello");
     Scanner sc=new Scanner(System.in);
