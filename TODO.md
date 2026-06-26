@@ -1,0 +1,5 @@
+- [x] Add `package Codeforces;` to all Codeforces solution .java files (excluding empty Domino_piling if needed)
+- [x] Fix unused `args` in main methods (rename to ignored if not used)
+- [x] Close Scanners using try-with-resources in all Codeforces files that read input
+- [ ] Optionally reduce SonarLint logger warning by leaving System.out as-is unless required
+- [x] Verify by running javac (or project build)
